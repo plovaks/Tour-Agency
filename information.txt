@@ -1,0 +1,14 @@
+Baikal Russia 2 20000 30
+The_Louvre France 1 3500 15
+Fjords Norway 4 21000 7
+Red_Square Russia 10 100 12
+Eiffel_Tower France 1 2900 16
+Istanbul Turkey 3 5000 4
+Czech_Castles Czech 2 5790 27
+Station_Warsaw Poland 7 4400 15
+Lapland Finland 3 7900 5
+Helsinki Finland 2 5809 21
+
+
+jhgfd gfdsa 2 3 0
+Rome Italy 2 30000 12
